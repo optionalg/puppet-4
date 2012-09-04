@@ -1,2 +1,2 @@
-node myserver {
+node myserver
 
