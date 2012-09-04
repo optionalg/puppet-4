@@ -1,2 +1,3 @@
-node myserver
+node myserver{
+}}
 
